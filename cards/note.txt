@@ -1,0 +1,4 @@
+Go ver 1.11以降の場合の処理
+1. cd cards
+2. go env -w GO111MODULE=auto
+3. go mod init cards
